@@ -1,0 +1,10 @@
+name: Phuc Dang
+bio: |
+  Hello guys. I'm Phuc and I'm a passionate Software Engineer and also a Javascript lover. When I was a fresher, there are so many concerns about Software Engineer's life. So I decided to write this blog to help people who feel the same as me before.
+avatar: ./avatars/phucdph-avatar.jpg
+featured: true
+social:
+  - url: https://www.linkedin.com/in/phucdph/
+  - url: https://github.com/phucdph
+  - url: https://medium.com/@phucdph
+  - url: https://www.facebook.com/phuc.hoang.27/
