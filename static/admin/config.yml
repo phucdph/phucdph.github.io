@@ -2,7 +2,7 @@ backend: # Set up your backend
   name: github
   repo: phucdph/phucdph.github.io
   base_url: https://api.netlify.com
-  site_domain: https://phucdph.github.io
+  site_domain: https://vigilant-hugle-0e12cd.netlify.app
   auth_endpoint: auth
 
 local_backend: true # Optional if you want to use the local proxy mode
