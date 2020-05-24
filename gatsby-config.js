@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Phuc Dang's Blog`,
     name: `Phuc Dang's Blog`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://phucdph.github.io`,
     description: `This is blog about Information Technology, Software Engineer's life,...`,
     hero: {
       heading: `Welcome to Phuc's blog`,
@@ -54,8 +54,9 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
+        trackingId: "UA-167511518-1",
       },
     },
   ],
